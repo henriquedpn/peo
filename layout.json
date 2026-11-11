@@ -1,0 +1,144 @@
+{
+  "fields": [
+    {
+      "field": "agenda_base",
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 2
+    },
+    {
+      "field": "agenda_sonda",
+      "x": 1,
+      "y": 0,
+      "w": 1,
+      "h": 2
+    },
+    {
+      "field": "codigo",
+      "x": 2,
+      "y": 0,
+      "w": 1,
+      "h": 2
+    },
+    {
+      "field": "requisito",
+      "x": 3,
+      "y": 0,
+      "w": 2,
+      "h": 2
+    },
+    {
+      "field": "auditado",
+      "x": 5,
+      "y": 0,
+      "w": 1,
+      "h": 2
+    },
+    {
+      "field": "apoio",
+      "x": 6,
+      "y": 0,
+      "w": 1,
+      "h": 2
+    },
+    {
+      "field": "orientacoes",
+      "x": 7,
+      "y": 0,
+      "w": 4,
+      "h": 2
+    },
+    {
+      "field": "requisitominimo",
+      "x": 0,
+      "y": 2,
+      "w": 5,
+      "h": 7
+    },
+    {
+      "field": "autoavaliacaodt",
+      "x": 5,
+      "y": 2,
+      "w": 6,
+      "h": 7
+    },
+    {
+      "field": "autoavaliacao",
+      "x": 0,
+      "y": 9,
+      "w": 11,
+      "h": 2
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 11,
+      "w": 11,
+      "h": 3
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 14,
+      "w": 11,
+      "h": 3
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 17,
+      "w": 11,
+      "h": 3
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 20,
+      "w": 11,
+      "h": 3
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 23,
+      "w": 11,
+      "h": 3
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 26,
+      "w": 11,
+      "h": 3
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 29,
+      "w": 11,
+      "h": 3
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 32,
+      "w": 11,
+      "h": 3
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 35,
+      "w": 11,
+      "h": 3
+    },
+    {
+      "field": "codigos_requisito",
+      "x": 0,
+      "y": 38,
+      "w": 11,
+      "h": 3
+    }
+  ]
+}
